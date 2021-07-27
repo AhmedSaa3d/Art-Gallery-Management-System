@@ -8,4 +8,10 @@
 - If the user is signed in as a regular customer, he can purchase any item he likes.
 
 ## System Images
-
+![](img/login.png)
+![](img/customerReg.png)
+![](img/ArtistReg.png)
+![](img/customerPage1.png)
+![](img/customerPage2.png)
+![](img/adminPAge1.png)
+![](img/AdminPage2.png)
